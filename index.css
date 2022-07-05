@@ -1,0 +1,31 @@
+html{
+    background-color:black ;
+}
+h1{
+    color: white;
+    font-size: 60px;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
+.wrapper{
+    position: relative;
+}
+#sidebar{
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
+footer{
+    color: #3498db;
+    font-size: 30px;
+    text-align: center;
+   
+}
